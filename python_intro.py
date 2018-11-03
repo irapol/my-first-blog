@@ -5,4 +5,3 @@ if 3 > 2:
 girls=['Ira', 'Rachel', 'Monica', 'Phoebe']
 for name in girls:
     print(name)
-len(girls)
